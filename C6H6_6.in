@@ -1,0 +1,6 @@
+./OneDarrays/files.dat
+./SystemParams/PEs/C6H6-PE_new.dat
+./SystemParams/Masses/C6H6-masses.dat
+./GridInfo/4104Proc-GI.dat
+./Blocks/FWT/30D-FW_6600-0_T6.dat
+./Eigenvalues/FWT/C6H6-HOB-FW_6600-0_T6_new.txt
